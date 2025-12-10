@@ -1,4 +1,4 @@
-# Final_ML_Portfolio
+# Robert_Thompson_ITAI_1371
 
 This portfolio highlights the profound work I have dedicated most of my time to this semester. Follow my academic journey displaying assignments completed through learning new terminology, functions, models, data and ML libraries. The skills I learned, forgot, re-learned and implemented including: setting up Git environments, loading and analyzing sample datasets, developed a binary classification model using logistic regression, then culminated my newfound knowledge and skills with a team project to build an anamoly detection system to identify shoplifitng and suspicious behavior by utilizing feature scaling that addresses class imbalance and accurately isolates high-risk patterns.
 
